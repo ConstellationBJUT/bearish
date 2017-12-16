@@ -1,0 +1,2 @@
+# bearish
+a stock predictor
